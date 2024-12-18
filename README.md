@@ -28,6 +28,8 @@ Created visualizations for each of the analysis tasks using Seaborn visualizatio
      ![Screenshot (588)](https://github.com/user-attachments/assets/73558d1f-c6f8-4212-8a30-435084490775)
 
 -  Identify team and position with highest salary expenditure - Created a barplot for visualization by seaborn.
+     ![Screenshot (589)](https://github.com/user-attachments/assets/d315f5d3-c607-4b95-b861-1861dc34c343)
+
 -  Correlation between age and salary - Created a regplot to visualize the correlation.
 
  Trends ,patterns and correlations gained from this analysis : The player's are between the ages of 19 to 40. Younger players (aged 20-24) typically include many with less experience, while older players above 30 are often veterans with extensive careers.There's a significant disparity in salaries among the players. 25% of players earn below $1 million, while the top earners exceed $20 million.Point Guards (PG) and Shooting Guards (SG) often have higher salaries compared to other positions like Small Forward (SF) and Power Forward (PF).Teams vary significantly in their overall salary structure.
