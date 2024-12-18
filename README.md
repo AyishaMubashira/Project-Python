@@ -31,4 +31,4 @@ There is a strong correlation between experience and salary, where, more experie
 These findings provide a clearer understanding of player characteristics and salary structures in professional basketball . The dataset reveals a wealth of insights into player demographics, salary trends, and positional importance within the NBA.
 
 
-![Screenshot (586)](https://github.com/user-attachments/assets/7ccbef2f-6af9-4428-992b-67b1fbb0cd78)
+
