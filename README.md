@@ -17,7 +17,8 @@ After Data Preprocessing, Various analysis tasks were done like ;
 
 After completing the analysis tasks, graphical representation of the data were done.
 Created visualizations for each of the analysis tasks using Seaborn visualization library.
-Distribution of Players across teams -  Created a bar chart for visualising distribution using countplot in seaborn.
+
+- Distribution of Players across teams -  Created a bar chart for visualising distribution using countplot in seaborn.
 - Segregation of players by position  - Visualise the segregation using countplot in seaborn.
 - Predominant age group - Created histplot to visualize the age distribution.
 -  Identify team and position with highest salary expenditure - Created a barplot for visualization by seaborn.
