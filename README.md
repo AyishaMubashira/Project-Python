@@ -32,8 +32,9 @@ Created visualizations for each of the analysis tasks using Seaborn visualizatio
 
 -  Correlation between age and salary - Created a regplot to visualize the correlation.
      ![Screenshot (590)](https://github.com/user-attachments/assets/bfcf00c4-a406-4c65-ba2a-e8e2e4ec2d43)
-
- Trends ,patterns and correlations gained from this analysis : The player's are between the ages of 19 to 40. Younger players (aged 20-24) typically include many with less experience, while older players above 30 are often veterans with extensive careers.There's a significant disparity in salaries among the players. 25% of players earn below $1 million, while the top earners exceed $20 million.Point Guards (PG) and Shooting Guards (SG) often have higher salaries compared to other positions like Small Forward (SF) and Power Forward (PF).Teams vary significantly in their overall salary structure.
+ 
+Insights gained from this analysis ,Highlighting trends,Patterns and correlations: 
+The player's are between the ages of 19 to 40. Younger players (aged 20-24) typically include many with less experience, while older players above 30 are often veterans with extensive careers.There's a significant disparity in salaries among the players. 25% of players earn below $1 million, while the top earners exceed $20 million.Point Guards (PG) and Shooting Guards (SG) often have higher salaries compared to other positions like Small Forward (SF) and Power Forward (PF).Teams vary significantly in their overall salary structure.
 There is a strong correlation between experience and salary, where, more experienced players generally command higher salaries.Older players tend to have slightly higher salaries, though the correlation is weak.Players aged 30 or older are likely in the higher salary bracket, reflecting experience. Heavier players show a minor positive correlation with higher salaries.
 
 These findings provide a clearer understanding of player characteristics and salary structures in professional basketball . The dataset reveals a wealth of insights into player demographics, salary trends, and positional importance within the NBA.Teams may benefit from analyzing these trends in more granular detail, enabling them to make informed decisions regarding recruitment, player development, and strategic financial planning.
