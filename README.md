@@ -19,8 +19,6 @@ After completing the analysis tasks, graphical representation of the data were d
 Created visualizations for each of the analysis tasks using Seaborn visualization library.
 -Distribution of Players across teams -  Created a bar chart for visualising distribution using countplot in seaborn.
 - Segregation of players by position  - Visualise the segregation using countplot in seaborn.
- ![Screenshot (586)](https://github.com/user-attachments/assets/60293cb8-626e-4f26-84a5-a615b0b59a35)
-
 - Predominant age group - Created histplot to visualize the age distribution.
 -  Identify team and position with highest salary expenditure - Created a barplot for visualization by seaborn.
 -  Correlation between age and salary - Created a regplot to visualize the correlation.
