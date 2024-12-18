@@ -25,6 +25,8 @@ Created visualizations for each of the analysis tasks using Seaborn visualizatio
      ![Screenshot (587)](https://github.com/user-attachments/assets/c0fab707-dcba-41fa-bbf4-b93e99f0f29f)
 
 - Predominant age group - Created histplot to visualize the age distribution.
+     ![Screenshot (588)](https://github.com/user-attachments/assets/73558d1f-c6f8-4212-8a30-435084490775)
+
 -  Identify team and position with highest salary expenditure - Created a barplot for visualization by seaborn.
 -  Correlation between age and salary - Created a regplot to visualize the correlation.
 
