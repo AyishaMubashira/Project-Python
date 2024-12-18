@@ -20,6 +20,7 @@ After completing the analysis tasks, graphical representation of the data were d
 Created visualizations for each of the analysis tasks using Seaborn visualization library.
 
 - Distribution of Players across teams -  Created a bar chart for visualising distribution using countplot in seaborn.
+ 
 - Segregation of players by position  - Visualise the segregation using countplot in seaborn.
 - Predominant age group - Created histplot to visualize the age distribution.
 -  Identify team and position with highest salary expenditure - Created a barplot for visualization by seaborn.
@@ -28,7 +29,7 @@ Created visualizations for each of the analysis tasks using Seaborn visualizatio
  Trends ,patterns and correlations gained from this analysis : The player's are between the ages of 19 to 40. Younger players (aged 20-24) typically include many with less experience, while older players above 30 are often veterans with extensive careers.There's a significant disparity in salaries among the players. 25% of players earn below $1 million, while the top earners exceed $20 million.Point Guards (PG) and Shooting Guards (SG) often have higher salaries compared to other positions like Small Forward (SF) and Power Forward (PF).Teams vary significantly in their overall salary structure.
 There is a strong correlation between experience and salary, where, more experienced players generally command higher salaries.Older players tend to have slightly higher salaries, though the correlation is weak.Players aged 30 or older are likely in the higher salary bracket, reflecting experience. Heavier players show a minor positive correlation with higher salaries.
 
-These findings provide a clearer understanding of player characteristics and salary structures in professional basketball . The dataset reveals a wealth of insights into player demographics, salary trends, and positional importance within the NBA.
+These findings provide a clearer understanding of player characteristics and salary structures in professional basketball . The dataset reveals a wealth of insights into player demographics, salary trends, and positional importance within the NBA.Teams may benefit from analyzing these trends in more granular detail, enabling them to make informed decisions regarding recruitment, player development, and strategic financial planning.
 
 
 
