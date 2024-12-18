@@ -9,6 +9,7 @@ Correcting the height column by replacing it with random numbers between 150 and
 Through this preprocessing method, No duplicates were found and also dropped the rows with missing values.
 
 After Data Preprocessing, Various analysis tasks were done like ;
+
 - Distribution of Players across teams : Used value_counts() functions to calculate the distribution of players across each team and also calculate the percentage split relative to the total number of players by normalising.
 - Segregation of players by position : Used groupby() function to segregate players based on their positions .
 - Predominant age group : Used the value_counts() function to calculate the players by age group and Identify Predominant Age group .
@@ -17,6 +18,7 @@ After Data Preprocessing, Various analysis tasks were done like ;
 
 After completing the analysis tasks, graphical representation of the data were done.
 Created visualizations for each of the analysis tasks using Seaborn visualization library.
+
 -Distribution of Players across teams -  Created a bar chart for visualising distribution using countplot in seaborn.
 - Segregation of players by position  - Visualise the segregation using countplot in seaborn.
 - Predominant age group - Created histplot to visualize the age distribution.
