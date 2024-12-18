@@ -1,5 +1,6 @@
 # Project-Python
-Overview of the Project
+Overview of the Project:
+
 The dataset contains the details of basketball players across various teams , consisting of 458 rows and 9 columns.Key variables such as age, height, weight, salary, and player position are analyzed to identify insights.
 The analysis of this Basketball players dataset revealed several key trends , patterns and correlations that provide valuable insights into the Player demoghraphics, Positional Trends and salary structure.
 
