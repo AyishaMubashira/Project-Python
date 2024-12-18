@@ -29,3 +29,6 @@ Created visualizations for each of the analysis tasks using Seaborn visualizatio
 There is a strong correlation between experience and salary, where, more experienced players generally command higher salaries.Older players tend to have slightly higher salaries, though the correlation is weak.Players aged 30 or older are likely in the higher salary bracket, reflecting experience. Heavier players show a minor positive correlation with higher salaries.
 
 These findings provide a clearer understanding of player characteristics and salary structures in professional basketball . The dataset reveals a wealth of insights into player demographics, salary trends, and positional importance within the NBA.
+
+
+![Screenshot (586)](https://github.com/user-attachments/assets/7ccbef2f-6af9-4428-992b-67b1fbb0cd78)
